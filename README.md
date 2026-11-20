@@ -4,7 +4,7 @@ Desarrollador backend y estudiante universitario en Colombia 🇨🇴. Me gusta 
 
 ## 🔗 Enlaces
 
-- 💼 **Portafolio:** [new-jahs-frontend.vercel.app](new-jahs-frontend.vercel.app)
+- 💼 **Portafolio:** [newjahs.com](https://newjahs.com)
 - 🛍️ **New Jahs (proyecto destacado):** [https://portafolio-juan-david-omega.vercel.app/](https://portafolio-juan-david-omega.vercel.app/)
 
 ## 🚀 Proyecto destacado: New Jahs
@@ -24,5 +24,5 @@ App web a la medida para una MiPyme de ropa: ecommerce, inventario y chatbot 24/
 
 ## 📫 Contacto
 
-- Portafolio: [new-jahs-frontend.vercel.app](new-jahs-frontend.vercel.app)
+- Portafolio: [newjahs.com](https://newjahs.com)
 - LinkedIn: https://www.linkedin.com/in/juan-david-mart%C3%ADnez-ni%C3%B1o-879b89323/
