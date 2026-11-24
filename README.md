@@ -4,8 +4,8 @@ Desarrollador backend y estudiante universitario en Colombia 🇨🇴. Me gusta 
 
 ## 🔗 Enlaces
 
-- 💼 **Portafolio:** [newjahs.com](https://newjahs.com)
-- 🛍️ **New Jahs (proyecto destacado):** [https://portafolio-juan-david-omega.vercel.app/](https://portafolio-juan-david-omega.vercel.app/)
+- 💼 **Portafolio:** [https://portafolio-juan-david-omega.vercel.app/](https://portafolio-juan-david-omega.vercel.app/)
+- 🛍️ **New Jahs (proyecto destacado):** [newjahs.com](https://newjahs.com)
 
 ## 🚀 Proyecto destacado: New Jahs
 
