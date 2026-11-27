@@ -24,5 +24,5 @@ App web a la medida para una MiPyme de ropa: ecommerce, inventario y chatbot 24/
 
 ## 📫 Contacto
 
-- Portafolio: [newjahs.com](https://newjahs.com)
+- Portafolio:  [https://portafolio-juan-david-omega.vercel.app/](https://portafolio-juan-david-omega.vercel.app/)
 - LinkedIn: https://www.linkedin.com/in/juan-david-mart%C3%ADnez-ni%C3%B1o-879b89323/
